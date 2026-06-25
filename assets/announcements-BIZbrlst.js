@@ -1,1 +1,0 @@
-const e=[{id:"a1",titleKey:"announce.a1Title",date:"2026-05-28",bodyKey:"announce.a1Body"},{id:"a2",titleKey:"announce.a2Title",date:"2026-05-20",bodyKey:"announce.a2Body"},{id:"a3",titleKey:"announce.a3Title",date:"2026-05-10",bodyKey:"announce.a3Body"}];export{e as A};
