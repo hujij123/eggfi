@@ -1,0 +1,1 @@
+function e(r,t=4){return r?`···${r.replace(/^0x/i,"").slice(-t)}`:""}function n(r,t=4){return r?`****${r.replace(/\s/g,"").slice(-t)}`:""}const o="/eggfi/assets/logo-DB5NRWCG.png";export{e as a,n as f,o as l};
