@@ -1,0 +1,1 @@
+function a(r,t=4){return r?`···${r.replace(/^0x/i,"").slice(-t)}`:""}function i(r,t=4){return r?`****${r.replace(/\s/g,"").slice(-t)}`:""}function c(r){if(!r)return"";const t=r.replace(/^0x/i,"").toLowerCase();return t.length<8?r:`0x${t.slice(0,4)}****${t.slice(-4)}`}export{c as a,a as b,i as f};
